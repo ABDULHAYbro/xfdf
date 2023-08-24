@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(179, 255, 0);
+    color: aliceblue;
+}
+.clas{
+    background-color: brown;
+    border-width: medium;
+    padding: 70px 200px;
+    width: 500px;
+    height: 445px;
+    margin: 19px auto;
+}
+.button{
+    position: relative;
+    width: 500px;
+}
